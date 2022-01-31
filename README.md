@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ojrealdev
+- 👋 Hi, I’m Stephen Ochieng [@ojrealdev]
 - My other github account is @itsrealoj which I have a problem accessing due 2FA
 - 👀 I’m interested in JavaScript, Java and Dart
 - 🌱 I’m currently learning Flutter
