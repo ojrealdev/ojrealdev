@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Stephen Ochieng
-- My other github account is @itsrealoj which I have a problem accessing due 2FA issue.
+- My other github account i used from 2017 - 2021 is @itsrealoj.
 - I am a Senior Full-Stack Developer
 - 👀 I mostly code in JavaScript, Java and Dart
 - 💞️ I’m looking to collaborate on ReactJS,React Native, NextJS, NodeJS, Spring Boot and Flutter projects
